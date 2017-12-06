@@ -1,0 +1,15 @@
+{
+  "name": "uploade-video-fun-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intent_info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "make-data": "node ./make_data.js"
+  },
+  "author": "颜风",
+  "license": "MIT",
+  "dependencies": {
+    "fs-plus": "^3.0.1"
+  }
+}

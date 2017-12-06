@@ -1,0 +1,102 @@
+[
+  {
+    "type": "video",
+    "content": "",
+    "intent": "smart_transform",
+    "title": "【smart-transform】取自 Atom 的 babeljs:coffeescript:typescript 智能转 es5 库",
+    "order": 1,
+    "local_video_path": "videos/树莓派/【smart-transform】取自 Atom 的 babeljs:coffeescript:typescript 智能转 es5 库.mp4",
+    "ext": ".mp4",
+    "category": "树莓派"
+  },
+  {
+    "type": "video",
+    "content": "",
+    "intent": "memory_leakDetector",
+    "title": "【YFMemoryLeakDetector】人人都能理解的 iOS 内存泄露检测工具类",
+    "order": 2,
+    "local_video_path": "videos/树莓派/【YFMemoryLeakDetector】人人都能理解的 iOS 内存泄露检测工具类.mp4",
+    "ext": ".mp4",
+    "category": "树莓派"
+  },
+  {
+    "type": "video",
+    "content": "",
+    "intent": "sinopia_npm",
+    "title": "【玩转树莓派】使用 sinopia 搭建私有 npm 服务器",
+    "order": 3,
+    "local_video_path": "videos/树莓派/【玩转树莓派】使用 sinopia 搭建私有 npm 服务器.mp4",
+    "ext": ".mp4",
+    "category": "树莓派"
+  },
+  {
+    "type": "video",
+    "content": "",
+    "intent": "frp_ip",
+    "title": "【小技巧解决大问题】使用 frp 突破阿里云主机无弹性公网 IP 不能用作 Web 服务器的限制",
+    "order": 4,
+    "local_video_path": "videos/树莓派/【小技巧解决大问题】使用 frp 突破阿里云主机无弹性公网 IP 不能用作 Web 服务器的限制.mp4",
+    "ext": ".mp4",
+    "category": "树莓派"
+  },
+  {
+    "type": "video",
+    "content": "",
+    "intent": "luajit_macos",
+    "title": "【LuaJIT版】从零开始在 macOS 上配置 Lua 开发环境",
+    "order": 5,
+    "local_video_path": "videos/Lua/【LuaJIT版】从零开始在 macOS 上配置 Lua 开发环境.mp4",
+    "ext": ".mp4",
+    "category": "Lua"
+  },
+  {
+    "type": "video",
+    "content": "",
+    "intent": "lua_macos",
+    "title": "【最新版】从零开始在 macOS 上配置 Lua 开发环境",
+    "order": 6,
+    "local_video_path": "videos/Lua/【最新版】从零开始在 macOS 上配置 Lua 开发环境.mp4",
+    "ext": ".mp4",
+    "category": "Lua"
+  },
+  {
+    "type": "video",
+    "content": "",
+    "intent": "app_future",
+    "title": "关于混合应用开发的未来的一些思考",
+    "order": 7,
+    "local_video_path": "videos/Lua/关于混合应用开发的未来的一些思考.mp4",
+    "ext": ".mp4",
+    "category": "Lua"
+  },
+  {
+    "type": "video",
+    "content": "",
+    "intent": "google_bug",
+    "title": "记录我发现的第一个关于 Google 的 Bug",
+    "order": 8,
+    "local_video_path": "videos/Lua/记录我发现的第一个关于 Google 的 Bug.mp4",
+    "ext": ".mp4",
+    "category": "Lua"
+  },
+  {
+    "type": "video",
+    "content": "",
+    "intent": "tip_rest",
+    "title": "【树莓派自动化应用实例】整点提醒自己休息五分钟",
+    "order": 9,
+    "local_video_path": "videos/frp/【树莓派自动化应用实例】整点提醒自己休息五分钟.mp4",
+    "ext": ".mp4",
+    "category": "frp"
+  },
+  {
+    "type": "video",
+    "content": "",
+    "intent": "frp_anywhere",
+    "title": "借助 frp 随时随地访问自己的树莓派",
+    "order": 10,
+    "local_video_path": "videos/frp/借助 frp 随时随地访问自己的树莓派.mp4",
+    "ext": ".mp4",
+    "category": "frp"
+  }
+]
